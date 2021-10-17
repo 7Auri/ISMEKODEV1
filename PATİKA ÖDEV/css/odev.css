@@ -1,0 +1,87 @@
+
+
+
+.baslik{
+
+
+    color: #000099;
+    text-align: center;
+}
+ .menu{
+     display: flex;
+     width: 100%;
+     height: auto;
+     justify-content: center;
+     
+
+
+ }
+ li{
+    
+     list-style: none;
+     float: left;
+     margin:15px;
+     text-align: center;
+ }
+
+ a{
+
+    text-decoration: none;
+    font-size:25px;
+    color:#CC9900;
+    font-weight: bold;
+    
+ }
+
+
+.clear{
+    clear: both;
+}
+
+.ana{
+    text-align: center;
+    color:#CC0033;
+    font-weight: bolder;
+}
+
+.anasayfa p{
+    text-align: center;
+}
+.foto{
+    margin-top: 55px;
+    font-weight: bolder;
+    font-size: 27px;
+}
+.foto img{
+    width: 250px;
+    height: 250px;
+    
+  
+}
+
+.foto ul{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.ilk{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    color:#CC0033;
+}
+ .orta{
+     text-align: center;
+ }
+
+ .para{
+     color: cornflowerblue;
+ }
+ .link{
+     color:#CC9900;
+     font-weight: normal;
+     font-size: initial;
+     
+ }
